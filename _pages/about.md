@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Never give up"
+title: "Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
