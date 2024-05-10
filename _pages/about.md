@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Introduction"
+title: "Welcome to Qiwei Yu‘s personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
