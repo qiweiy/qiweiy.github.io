@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Researches"
-permalink: /publications/
+permalink: /researches/
 author_profile: true
 ---
-Working in progress
+pages still under work
 -------------------
